@@ -217,11 +217,11 @@ section.success {
     transition: all ease .5s;
 }
 
-#webdev, #maps .portfolio-item .portfolio-link .caption:hover {
+ .portfolio-item .portfolio-link .caption:hover {
     opacity: 1;
 }
 
-#webdev, #maps .portfolio-item .portfolio-link .caption .caption-content {
+ .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -232,12 +232,12 @@ section.success {
     color: #fff;
 }
 
-#webdev, #maps .portfolio-item .portfolio-link .caption .caption-content i {
+ .portfolio-item .portfolio-link .caption .caption-content i {
     margin-top: -12px;
 }
 
-#webdev, #maps .portfolio-item .portfolio-link .caption .caption-content h3,
-#webdev, #maps .portfolio-item .portfolio-link .caption .caption-content h4 {
+ .portfolio-item .portfolio-link .caption .caption-content h3,
+.portfolio-item .portfolio-link .caption .caption-content h4 {
     margin: 0;
 }
 
