@@ -245,6 +245,8 @@ section.success {
     z-index: 2;
 }
 
+#maps {background: #f4f4f4;}
+
 @media(min-width:767px) {
     #webdev, #maps .portfolio-item {
         margin: 0 0 30px;
