@@ -1,5 +1,5 @@
 # Site settings
-title: TNC N. America Science
+title: TNC NA Science
 email: dmajka@tnc.org
 url: https://thenatureconservancy.github.io
 description: "Web dev and cartography portfolio"
@@ -20,7 +20,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/thenatureconservancy
 
 # Postal address (add as many lines as necessary)
 address:
