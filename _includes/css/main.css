@@ -194,19 +194,19 @@ section.success {
     }
 }
 
-#webdev, #maps .portfolio-item {
+ .portfolio-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#webdev, #maps .portfolio-item .portfolio-link {
+ .portfolio-item .portfolio-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#webdev, #maps .portfolio-item .portfolio-link .caption {
+ .portfolio-item .portfolio-link .caption {
     position: absolute;
     width: 100%;
     height: 100%;
