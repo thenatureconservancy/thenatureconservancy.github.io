@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2015-01-28
+img: wholesystems.jpg
+alt: image-alt
+project-date: October 2012
+client: North America Region
+category: cartography
+description: Priority whole systems map, Oct 2012.
+
+---
