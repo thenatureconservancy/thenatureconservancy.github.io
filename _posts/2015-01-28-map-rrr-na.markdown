@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: rrr-na
+date: 2015-01-28
+img: maps/rrr_na.jpg
+alt: Risk Reduction & Resilience
+project-date: March 2013
+client: TNC Risk Reduction & Resilience
+category: maps landscape
+description: 
+
+---
+

@@ -4,23 +4,33 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
+                        <h3>Headquarters Location</h3>
                         <p>
                             {% for adress in site.address %}
                                 {{ adress.line }} <br>
 		                    {% endfor %}
                         </p>
                     </div>
+
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.social }}</h3>
+                        <h3>Work with Us!</h3>
+                        <p>Work for TNC, and need help with science, maps, or apps? Contact <a href="mailto:jfargione@tnc.org">Joe Fargione</a> to start the conversation.</p>
+                    </div>
+
+                    <div class="footer-col col-md-4">
+                        <h3>NA Science Team</h3>
                         <ul class="list-inline">
-                            {% for network in site.social %}
-                            <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
-                            </li>
-		                    {% endfor %}
+                            <li>Joe Fargione</li>
+                            <li>Brad McRae</li>
+                            <li>Casey Schneebeck</li>
+                            <li>Dan Majka</li>
+                            <li>Jan Slaats</li>
+                            <li>Jim Platt</li>                                                                                                                
                         </ul>
                     </div>
+
+
+                    
 <!--                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
                         <p>{{ site.credits }}</p>

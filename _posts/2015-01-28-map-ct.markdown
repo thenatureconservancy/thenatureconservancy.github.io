@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: ct
+date: 2015-01-28
+img: maps/coral_triangle.jpg
+alt: Coral Triangle 
+project-date: March 2014
+client: NA Region (Dietmar Grimm)
+category: maps landscape
+description: One of several maps remade for senior managers meeting
+
+---
+

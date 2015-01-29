@@ -1,4 +1,5 @@
 # Site settings
+baseurl:
 title: TNC NA Science
 email: dmajka@tnc.org
 url: https://thenatureconservancy.github.io
@@ -13,7 +14,7 @@ color:
 # Footer settings
 footer:
   copyright: The Nature Conservancy
-  location: Location
+  location: Headquarters
   social: Around the Web
   credits: Credits
 

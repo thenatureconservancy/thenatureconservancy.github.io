@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: bison
+date: 2015-01-28
+img: maps/bison.jpg
+alt: Where the Bison Roam 
+project-date: June 2013
+client: Marketing (Chris Anderson)
+category: maps portrait
+description: 
+
+---
+

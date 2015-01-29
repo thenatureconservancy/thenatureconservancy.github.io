@@ -15,6 +15,8 @@ p {
 p.small {
     font-size: 16px;
 }
+.fa-globe {font-size: 120px; color: rgb(44,62,80);}
+.fa-map-marker {font-size: 120px; color: #3be8c6;}
 
 a,
 a:hover,
@@ -74,6 +76,11 @@ hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
 }
+#maps hr.star-primary:after {
+    color: #{{ site.color.secondary }};
+    background-color: #f4f4f4;
+}
+
 
 .img-centered {
     margin: 0 auto;
@@ -196,7 +203,7 @@ section.success {
 
  .portfolio-item {
     right: 0;
-    margin: 0 0 15px;
+    margin: 0 0 20px;
 }
 
  .portfolio-item .portfolio-link {
@@ -204,6 +211,8 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    box-shadow: 2px 2px 4px #ccc;
+    border: 2px solid #fff;
 }
 
  .portfolio-item .portfolio-link .caption {
