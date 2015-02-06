@@ -7,7 +7,7 @@ alt: ROI Dashboard
 project-date: January 2015
 client: NA Region
 category: apps
-description: Conservation return on investment dashboard developed for NatureVest big deals. Dashboard was also adapted for <a href="http://nascience.us/water-security">Latin America water funds project dashboard</a>.
+description: Conservation return on investment dashboard developed for NatureVest big deals. View an <a href="http://nascience.us/roi/public">anonymized demonstration version</a>. Dashboard was also adapted for <a href="http://nascience.us/water-security">Latin America water funds project dashboard</a>.
 
 ---
 

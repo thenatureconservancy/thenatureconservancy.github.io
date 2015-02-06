@@ -7,7 +7,7 @@ alt: TNC Lands
 project-date: 2014
 client: TNC
 category: apps
-description: Visit the website <a href="http://www.lands.tnc.org/">here</a>.
+description: Visit the website <a href="http://www.tnclands.tnc.org">here</a>.
 
 ---
 
