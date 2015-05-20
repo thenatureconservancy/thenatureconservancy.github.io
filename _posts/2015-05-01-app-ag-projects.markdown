@@ -2,7 +2,7 @@
 layout: default
 modal-id: ag-projects
 date: 2015-05-01
-img: apps/ag-projects.jpg
+img: apps/ag_projects.jpg
 alt: Agriculture Projects Application
 project-date: 2014
 client: North America Region Agriculture Program
